@@ -17,9 +17,9 @@ Prosty zegar na stronie internetowej, który wyświetla aktualny czas oraz datę
 
 Projekt został stworzony przy użyciu czystych technologii webowych:  
 
-- **HTML5** – struktura gry
-- **CSS3** – stylizacja, układ planszy i animacje
-- **JavaScript (ES6)** – logika gry, obsługa kliknięć i sprawdzanie par
+- **HTML5** – struktura napisów
+- **CSS3** – stylizacja i układ
+- **JavaScript (ES6)** – logika odswieżania czasu oraz daty
 
 ---
 
